@@ -1,5 +1,5 @@
 {
-  "name": "mostovoy/googleads-php-lib",
+  "name": "andrey-mostovoy/googleads-php-lib",
   "description": "Google Ads APIs Client Library for PHP (AdWords and Ad Manager)",
   "require": {
     "php": ">=7.0",
