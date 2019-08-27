@@ -1,11 +1,10 @@
 {
-  "name": "googleads/googleads-php-lib",
+  "name": "mostovoy/googleads-php-lib",
   "description": "Google Ads APIs Client Library for PHP (AdWords and Ad Manager)",
   "require": {
-    "php": ">=7.1",
+    "php": ">=7.0",
     "ext-mbstring": "*",
     "ext-openssl": "*",
-    "ext-soap": "*",
     "google/auth": "^1.0.0",
     "guzzlehttp/guzzle": "^6.0",
     "guzzlehttp/psr7": "^1.2",
